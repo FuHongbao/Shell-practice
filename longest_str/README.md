@@ -7,6 +7,6 @@
 &ensp;&ensp;&ensp;&ensp;&ensp;FindFile() //遍历文件并判断每行长度<br>
 &ensp;&ensp;&ensp;&ensp;&ensp;pd_dir() //判断是否当前文件包含在前面遍历过的参数内<br>
 5.运行截图：<br>
-https://github.com/FuHongbao/Shell-practice/blob/master/longest_str/picture/long01.png
-https://github.com/FuHongbao/Shell-practice/blob/master/longest_str/picture/long02.png
-https://github.com/FuHongbao/Shell-practice/blob/master/longest_str/picture/long03.png
+![image](https://github.com/FuHongbao/Shell-practice/blob/master/longest_str/picture/long01.png)
+![image](https://github.com/FuHongbao/Shell-practice/blob/master/longest_str/picture/long02.png)
+![image](https://github.com/FuHongbao/Shell-practice/blob/master/longest_str/picture/long03.png)

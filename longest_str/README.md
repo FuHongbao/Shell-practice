@@ -6,6 +6,7 @@
 &ensp;&ensp;&ensp;&ensp;&ensp;FindDir() //递归处理目录<br>
 &ensp;&ensp;&ensp;&ensp;&ensp;FindFile() //遍历文件并判断每行长度<br>
 &ensp;&ensp;&ensp;&ensp;&ensp;pd_dir() //判断是否当前文件包含在前面遍历过的参数内<br>
-5.运行截图：<br>
-/home/victoria/myStudy/0.shell/longest_str/picture/long01.png
-
+5. 运行截图：<br>
+![image](https://github.com/FuHongbao/Shell-practice/blob/master/longest_str/picture/long01.png)
+![image](https://github.com/FuHongbao/Shell-practice/blob/master/longest_str/picture/long02.png)
+![image](https://github.com/FuHongbao/Shell-practice/blob/master/longest_str/picture/long03.png)
